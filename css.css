@@ -1,0 +1,17 @@
+h1{
+    color: darkred;
+    font-size: 50px;
+}
+
+p{
+    color: darkgreen;
+    font-size: 30px;
+}
+
+#p2{
+    color: darkmagenta;
+}
+
+.p3{
+    color: darkcyan;
+}

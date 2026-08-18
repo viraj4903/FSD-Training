@@ -1,0 +1,78 @@
+body{
+
+    margin:0;
+    font-family:Arial;
+
+}
+
+
+.navbar{
+
+    background-color:black;
+    height:80px;
+
+}
+
+.logo{
+
+    width:125px;
+    margin:10px 20px;
+    float:left;
+
+}
+
+ul{
+
+    list-style:none;
+    margin:0;
+    padding:0;
+    float:right;
+
+}
+
+li{
+
+    display:inline-block;
+    margin:30px 15px;
+
+}
+
+a{
+
+    color:white;
+    text-decoration:none;
+    font-size:20px;
+
+}
+
+
+.main{
+
+    height:700px;
+
+    background-image:url("../images/ABES\ EC\ Image.webp");
+    background-size:cover;
+    background-position:center;
+
+    text-align:center;
+    color:white;
+
+    padding-top:220px;
+
+}
+
+.main h1{
+
+    font-size:70px;
+    margin-bottom:20px;
+
+}
+
+.main p{
+
+    font-size:24px;
+    width:700px;
+    margin:auto;
+    line-height:35px;
+
+}

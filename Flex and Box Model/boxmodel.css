@@ -1,0 +1,25 @@
+
+
+div {
+  /* This makes calculations more intuitive */
+  box-sizing: border-box;
+
+  /* 1. Content Area Size */
+  width: 300px;
+  height: 180px;
+  
+  /* 2. Padding (Space inside the border) */
+  padding: 30px;
+
+  /* 3. Border (The frame around padding/content) */
+  border: 25px solid darkcyan;
+
+  /* 4. Margin (Space outside the border) */
+  margin: 90px ;
+
+  /* Other styling for better visuals */
+  background-color:lightblue;
+  color: black;
+
+  
+}
