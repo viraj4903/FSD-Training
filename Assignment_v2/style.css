@@ -1,0 +1,75 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+}
+
+.box {
+    background-color: #a944ee;
+    width: 500px;
+    margin: 30px auto;
+    padding: 20px;
+    color: white;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+}
+
+.heading img {
+    margin-right: 15px;
+}
+
+.heading h1 {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    padding: 7px;
+}
+
+label {
+    font-size: 13px;
+}
+
+input, select {
+    margin-left: 10px;
+}
+
+button {
+    display: block;
+    margin: auto;
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 7px 15px;
+}
+
+.success-ticket {
+    background-color: lightcyan;
+    color: black;
+    margin-top: 20px;
+    padding: 15px;
+    border: 3px solid green;
+    border-radius: 5px;
+}
+
+.success-ticket h3 {
+    background-color: transparent;
+    color: green;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.success-ticket p {
+    font-size: 13px;
+    margin: 8px 0;
+}
