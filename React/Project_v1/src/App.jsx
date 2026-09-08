@@ -1,10 +1,9 @@
 import React from 'react'
-import Student from './components/Student'
 
 const App = () => {
   return (
     <div>
-      <Student/>
+        <h1>ABES EC</h1>
     </div>
   )
 }
